@@ -1,4 +1,5 @@
-# MakineOgrenmesi
+Merhabalar. Bu yazı patika.dev içerisinde takip ettiğim Başlangıç Seviye Veri Bilimi Patikasının Veri Bilimine Giriş bölümünün son görevi olan proje kısmı için oluşturulmuştur. Metni bir yapay zeka uygulaması olan ChatGPT ile oluşturmanın daha dikkat çekici olacağını düşündüm ve ChatGPT'nin sitesine giderek ona "Bana makine öğrenmesi hakkında bir blog yazısı yazar mısın?" şeklinde bir soru yönelttim. Kullandığı Türkçe de zaman zaman hatalar olsada aldığım cevabı hiç değiştirmeden direkt olarak sizinle paylaşıyorum. İyi okumlar diliyorum.
+
 
 Machine learning, bilgisayarların öğrenme becerilerini kullanarak veri setlerinden öğrenme sağlamak için kullanılan bir yöntemdir. Öğrenme, veri setlerinden öğrenilen kuralların veya modele dayalı bir sistem oluşturmak için kullanılır.
 
